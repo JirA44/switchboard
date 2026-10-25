@@ -1,3 +1,13 @@
+## Français
+
+Infrastructure de paiement programmable pour agents IA, avec flux HTTP/402, séquestre et budgets de gas. Exemple : prototyper un paiement entre services automatisés. Les transferts nécessitent une revue de sécurité.
+
+## English
+
+Programmable payment infrastructure for AI agents, with HTTP/402 flows, escrow, and gas budgets. Example: prototype a payment between automated services. Transfers require security review.
+
+---
+
 # switchboard
 
 **Programmable payments for AI agents.** One Python library, one contract suite, and one binary wire format that lets agents pay each other for work — over HTTP/402, on-chain escrow, multi-party micropayments, or stablecoin rails — without a human in the loop.
